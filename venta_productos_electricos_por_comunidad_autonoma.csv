@@ -1,0 +1,101 @@
+fecha,comunidad,producto,marca,ventas_euros,unidades,cliente_id,categoria
+2024-01-01,Madrid,iPhone 15 Pro,Apple,45600,12,1001,Smartphones
+2024-01-01,Cataluña,Samsung Galaxy S24,Samsung,38900,14,1002,Smartphones
+2024-01-01,Andalucía,PlayStation 5,Sony,31200,8,1003,Consolas
+2024-01-01,Comunidad Valenciana,Xiaomi Redmi Note 13,Xiaomi,8900,22,1004,Smartphones
+2024-01-01,Galicia,MacBook Air M2,Apple,28900,7,1005,Portátiles
+2024-01-01,País Vasco,AirPods Pro 2,Apple,12600,21,1006,Auriculares
+2024-01-02,Madrid,Samsung Galaxy S24,Samsung,14200,5,1007,Smartphones
+2024-01-02,Cataluña,PlayStation 5,Sony,27300,7,1008,Consolas
+2024-01-02,Andalucía,MacBook Pro M3,Apple,45200,6,1009,Portátiles
+2024-01-02,Comunidad Valenciana,Nintendo Switch OLED,Nintendo,11200,8,1010,Consolas
+2024-01-02,Galicia,Google Pixel 8,Google,8900,4,1011,Smartphones
+2024-01-02,País Vasco,Xiaomi Redmi Note 13,Xiaomi,6100,15,1012,Smartphones
+2024-01-03,Castilla y León,iPad Air 2024,Apple,23400,9,1013,Tablets
+2024-01-03,Canarias,Dyson V15,Dyson,15900,6,1014,Electrodomésticos
+2024-01-03,Aragón,PlayStation 5,Sony,19500,5,1015,Consolas
+2024-01-03,Murcia,Amazon Echo Show 8,Amazon,5600,14,1016,Smart Home
+2024-01-03,Baleares,iPhone 15 Pro,Apple,22800,6,1017,Smartphones
+2024-01-03,Castilla-La Mancha,Samsung Galaxy Tab S9,Samsung,13200,6,1018,Tablets
+2024-01-04,Extremadura,Xiaomi Mi TV Q1 55",Xiaomi,8900,4,1019,Televisores
+2024-01-04,Navarra,Asus ROG Zephyrus,Asus,17500,3,1020,Portátiles
+2024-01-04,Cantabria,Apple Watch Series 9,Apple,9800,10,1021,Wearables
+2024-01-04,La Rioja,Samsung Galaxy Watch 6,Samsung,5200,8,1022,Wearables
+2024-01-04,Madrid,PlayStation Portal,Sony,12600,9,1023,Consolas
+2024-01-04,Cataluña,MacBook Pro M3,Apple,37600,5,1024,Portátiles
+2024-01-05,Andalucía,Samsung Galaxy S24,Samsung,18700,7,1025,Smartphones
+2024-01-05,Comunidad Valenciana,iPhone 15,Apple,21400,8,1026,Smartphones
+2024-01-05,Galicia,AirPods Pro 2,Apple,8900,16,1027,Auriculares
+2024-01-05,País Vasco,PlayStation 5,Sony,15600,6,1028,Consolas
+2024-01-05,Madrid,Xiaomi Redmi Note 13,Xiaomi,12300,34,1029,Smartphones
+2024-01-06,Cataluña,Nintendo Switch OLED,Nintendo,9800,7,1030,Consolas
+2024-01-06,Andalucía,MacBook Air M2,Apple,17800,5,1031,Portátiles
+2024-01-06,Castilla y León,Samsung Galaxy Watch 6,Samsung,3400,6,1032,Wearables
+2024-01-06,Canarias,iPad Pro 12.9,Apple,18900,5,1033,Tablets
+2024-01-06,Aragón,Sony WH-1000XM5,Sony,5600,7,1034,Auriculares
+2024-01-07,Murcia,Xbox Series X,Microsoft,8900,5,1035,Consolas
+2024-01-07,Baleares,Apple Watch Series 9,Apple,6700,8,1036,Wearables
+2024-01-07,Castilla-La Mancha,HP Pavilion,HP,8900,5,1037,Portátiles
+2024-01-07,Extremadura,Amazon Fire HD 10,Amazon,3400,12,1038,Tablets
+2024-01-07,Navarra,iPhone 15 Pro,Apple,23400,7,1039,Smartphones
+2024-01-08,Cantabria,Samsung Galaxy Buds2 Pro,Samsung,4500,11,1040,Auriculares
+2024-01-08,La Rioja,Xiaomi Smart Band 8,Xiaomi,1900,28,1041,Wearables
+2024-01-08,Madrid,Lenovo ThinkPad,Lenovo,16700,6,1042,Portátiles
+2024-01-08,Cataluña,PlayStation Portal,Sony,8900,12,1043,Consolas
+2024-01-08,Andalucía,Samsung Galaxy Tab S9,Samsung,14500,7,1044,Tablets
+2024-01-09,Comunidad Valenciana,OnePlus 12,OnePlus,9800,5,1045,Smartphones
+2024-01-09,Galicia,MacBook Pro M3,Apple,26700,4,1046,Portátiles
+2024-01-09,País Vasco,AirPods Pro 2,Apple,7800,15,1047,Auriculares
+2024-01-09,Madrid,Nintendo Switch OLED,Nintendo,6700,6,1048,Consolas
+2024-01-09,Cataluña,Google Pixel 8,Google,5600,3,1049,Smartphones
+2024-01-10,Castilla y León,ASUS ZenBook,ASUS,12300,5,1050,Portátiles
+2024-01-10,Canarias,PlayStation 5,Sony,18900,7,1051,Consolas
+2024-01-10,Aragón,Samsung Galaxy S24,Samsung,11200,5,1052,Smartphones
+2024-01-10,Murcia,iPad Air,Apple,8900,5,1053,Tablets
+2024-01-10,Baleares,Dyson V15,Dyson,8900,4,1054,Electrodomésticos
+2024-01-11,Castilla-La Mancha,Xiaomi Mi TV Q1 55",Xiaomi,6700,3,1055,Televisores
+2024-01-11,Extremadura,Amazon Echo Show 8,Amazon,3400,9,1056,Smart Home
+2024-01-11,Navarra,Asus ROG Zephyrus,Asus,18900,3,1057,Portátiles
+2024-01-11,Cantabria,iPhone 15,Apple,14500,6,1058,Smartphones
+2024-01-11,La Rioja,Samsung Galaxy Watch 6,Samsung,2900,5,1059,Wearables
+2024-01-12,Madrid,Xiaomi Redmi Note 13,Xiaomi,14500,38,1060,Smartphones
+2024-01-12,Cataluña,MacBook Air M2,Apple,15600,5,1061,Portátiles
+2024-01-12,Andalucía,PlayStation Portal,Sony,7800,11,1062,Consolas
+2024-01-12,Comunidad Valenciana,AirPods Pro 2,Apple,6700,13,1063,Auriculares
+2024-01-12,Galicia,Samsung Galaxy Tab S9,Samsung,8900,5,1064,Tablets
+2024-01-13,País Vasco,Apple Watch Series 9,Apple,5600,7,1065,Wearables
+2024-01-13,Madrid,HP Pavilion,HP,6700,5,1066,Portátiles
+2024-01-13,Cataluña,Nintendo Switch OLED,Nintendo,7800,7,1067,Consolas
+2024-01-13,Andalucía,Sony WH-1000XM5,Sony,6700,8,1068,Auriculares
+2024-01-13,Castilla y León,Xiaomi Smart Band 8,Xiaomi,2100,32,1069,Wearables
+2024-01-14,Canarias,Lenovo ThinkPad,Lenovo,12300,5,1070,Portátiles
+2024-01-14,Aragón,iPhone 15 Pro,Apple,19800,6,1071,Smartphones
+2024-01-14,Murcia,Samsung Galaxy S24,Samsung,8900,4,1072,Smartphones
+2024-01-14,Baleares,PlayStation 5,Sony,13400,5,1073,Consolas
+2024-01-14,Castilla-La Mancha,iPad Pro 12.9,Apple,15600,4,1074,Tablets
+2024-01-15,Extremadura,Xbox Series X,Microsoft,6700,4,1075,Consolas
+2024-01-15,Navarra,Amazon Fire HD 10,Amazon,2900,11,1076,Tablets
+2024-01-15,Cantabria,Samsung Galaxy Buds2 Pro,Samsung,3800,10,1077,Auriculares
+2024-01-15,La Rioja,MacBook Pro M3,Apple,18900,3,1078,Portátiles
+2024-01-15,Madrid,OnePlus 12,OnePlus,8900,4,1079,Smartphones
+2024-01-16,Cataluña,Xiaomi Mi TV Q1 55",Xiaomi,7800,4,1080,Televisores
+2024-01-16,Andalucía,Dyson V15,Dyson,12300,5,1081,Electrodomésticos
+2024-01-16,Comunidad Valenciana,ASUS ZenBook,ASUS,14500,6,1082,Portátiles
+2024-01-16,Galicia,Google Pixel 8,Google,6700,4,1083,Smartphones
+2024-01-16,País Vasco,PlayStation Portal,Sony,5600,8,1084,Consolas
+2024-01-17,Madrid,Samsung Galaxy Watch 6,Samsung,4500,9,1085,Wearables
+2024-01-17,Cataluña,AirPods Pro 2,Apple,8900,17,1086,Auriculares
+2024-01-17,Andalucía,iPad Air,Apple,11200,6,1087,Tablets
+2024-01-17,Castilla y León,Amazon Echo Show 8,Amazon,2900,8,1088,Smart Home
+2024-01-17,Canarias,iPhone 15,Apple,16700,7,1089,Smartphones
+2024-01-18,Aragón,MacBook Air M2,Apple,14500,5,1090,Portátiles
+2024-01-18,Murcia,Nintendo Switch OLED,Nintendo,5600,5,1091,Consolas
+2024-01-18,Baleares,Samsung Galaxy S24,Samsung,8900,4,1092,Smartphones
+2024-01-18,Castilla-La Mancha,Xiaomi Redmi Note 13,Xiaomi,8900,23,1093,Smartphones
+2024-01-18,Extremadura,Apple Watch Series 9,Apple,5600,7,1094,Wearables
+2024-01-19,Navarra,Samsung Galaxy Tab S9,Samsung,8900,5,1095,Tablets
+2024-01-19,Cantabria,PlayStation 5,Sony,14500,6,1096,Consolas
+2024-01-19,La Rioja,MacBook Pro M3,Apple,23400,4,1097,Portátiles
+2024-01-19,Madrid,Sony WH-1000XM5,Sony,7800,9,1098,Auriculares
+2024-01-19,Cataluña,Xiaomi Smart Band 8,Xiaomi,2300,34,1099,Smartphones
+2024-01-20,Andalucía,iPhone 15 Pro,Apple,26700,8,1100,Smartphones
